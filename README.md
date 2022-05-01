@@ -8,7 +8,7 @@
   4. [PostgreSQL](https://www.postgresql.org)
   5. [Heroku](https://www.heroku.com/what)
   
-  <p align="center"><img src="./cap_log.JPG" alt="loginApp" border="0" width="300" height="300"/></p>
+  <a href="http://thawing-beyond-16316.herokuapp.com/login" target="blank"><p align="center"><img src="./cap_log.JPG" alt="loginApp" border="0" width="800"/></p></a>
 ---
    
 - caso 2 [Consulta de API](https://hopeful-davinci-cb54b7.netlify.app)<br>
@@ -17,7 +17,7 @@
   1. [CSS3](https://www.w3schools.com/css/)
   1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   1. [Vuejs](https://vuejs.org)
-  
-  <p align="center"><img src="./cap_API.JPG" alt="apiApp" border="0" width="300" height="300"/></p>
+  </a>
+  <a href="(https://hopeful-davinci-cb54b7.netlify.app" target="blank"><p align="center"><img src="./cap_API.JPG" alt="apiApp" border="0" width="800" /></p></a>
 
 
