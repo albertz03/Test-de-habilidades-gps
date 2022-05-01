@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient( rgba(234, 255, 112, 0.5), rgba(38, 7, 175, 0.5)), url(./bg.jpg);
+}
+
+#app {
+  width: 400px;
+  height: 100vh;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+    font-weight: bold;
+    color: antiquewhite;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6); 
+    
+}
+h3 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: aliceblue;
+  text-shadow: 0 0px 2px rgba(0, 0, 0, 0.6); 
+}
+
+img {
+  border-radius: 50%;
+  border: 5px #333 solid;
+  margin-bottom: 1rem;
+  -webkit-box-shadow: 0px 10px 20px  rgba(0,0,0,0.6);
+
+}
+
+.male {
+  border-color: rgba(70, 131, 180, 0.8);
+  background-color: rgba(70, 131, 180, 0.6);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+}
+
+.female {
+  border-color: rgba(255, 192, 203, 0.9);
+  background-color: rgba(255, 192, 203, 0.6);
+  color: #333;
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+}
+
+button {
+  cursor: pointer;
+  display: inline-block;
+  background: #333;
+  color: white;
+  font-size: 18px;
+  border: 0;
+  padding: 1rem 1.5rem;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 10px 20px  rgba(0,0,0,0.6);
+ 
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  transform: scale(0.98);
+}
+
+.cajaCristal {
+  width: 400px;
+  height: 100vh;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 280px);
+  min-height: 300px;
+  background: rgba(255, 255, 255, 0.0);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.5);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 20px;
+}
