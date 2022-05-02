@@ -29,6 +29,6 @@
   1. [Vuejs](https://vuejs.org)
   2. [Netlify](https://www.netlify.com)
   
-  <p align="center"><a href="https://hopeful-davinci-cb54b7.netlify.app" target="blank"><img src="./cap_API.JPG" alt="apiApp" border="0" width="800" /></p></a>
+  <p align="center"><a href="https://hopeful-davinci-cb54b7.netlify.app" target="blank"><img src="./api.gif" alt="apiApp" border="0" width="800" /></p></a>
 
 
