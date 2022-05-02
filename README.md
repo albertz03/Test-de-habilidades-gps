@@ -12,9 +12,11 @@
   4. [PostgreSQL](https://www.postgresql.org)
   5. [Heroku](https://www.heroku.com/what)
   
-  
+## Preview Pagina de Inicio de sesion 
   <p align="center"><a href="http://thawing-beyond-16316.herokuapp.com/login" target="blank"><img src="./cap_log.JPG" alt="loginApp" border="0" width="800"/></p></a>
+## Preview Base de datos en pgAdmin 4 
   <p align="center"><a href="https://www.pgadmin.org" target="blank"><img src="./cap_db.JPG" alt="loginApp_db" border="0" width="800"/></p></a>
+  
 ---
    
 - caso 2 [Consulta de API](https://hopeful-davinci-cb54b7.netlify.app)<br>
@@ -28,7 +30,9 @@
   1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   1. [Vuejs](https://vuejs.org)
   2. [Netlify](https://www.netlify.com)
-  
+  3. [Random User API](https://randomuser.me)
+ 
+## Preview APP de consulta a api randomuser.me 
   <p align="center"><a href="https://hopeful-davinci-cb54b7.netlify.app" target="blank"><img src="./api.gif" alt="apiApp" border="0" width="800" /></p></a>
 
 
