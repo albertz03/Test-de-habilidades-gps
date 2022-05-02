@@ -14,6 +14,7 @@
   
   
   <p align="center"><a href="http://thawing-beyond-16316.herokuapp.com/login" target="blank"><img src="./cap_log.JPG" alt="loginApp" border="0" width="800"/></p></a>
+  <p align="center"><a href="https://www.pgadmin.org" target="blank"><img src="./cap_db.JPG" alt="loginApp_db" border="0" width="800"/></p></a>
 ---
    
 - caso 2 [Consulta de API](https://hopeful-davinci-cb54b7.netlify.app)<br>
