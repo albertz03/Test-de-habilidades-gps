@@ -79,7 +79,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
   5. [Heroku](https://www.heroku.com/what)
   
 ## Preview Pagina de Inicio de sesion 
-  <p align="center"><a href="http://thawing-beyond-16316.herokuapp.com/login" target="blank"><img src="./cap_log.JPG" alt="loginApp" border="0" width="800"/></p></a>
+  <p align="center"><a href="http://thawing-beyond-16316.herokuapp.com/login" target="blank"><img src="/cap_log.JPG" alt="loginApp" border="0" width="800"/></p></a>
   
 ## Preview Base de datos en pgAdmin 4
-  <p align="center"><a href="https://www.pgadmin.org" target="blank"><img src="./cap_db.JPG" alt="loginApp_db" border="0" width="800"/></p></a>
+  <p align="center"><a href="https://www.pgadmin.org" target="blank"><img src="/cap_db.JPG" alt="loginApp_db" border="0" width="800"/></p></a>
